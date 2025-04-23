@@ -1,0 +1,6 @@
+# CatBoost eğitim logları
+catboost_info/
+
+# Geçici dosyalar
+*.tsv
+*.json
